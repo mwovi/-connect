@@ -1,4 +1,4 @@
-# Social-Media-App
+#connect-App
 Full stack, fully-featured social media application using React, Firebase, Redux, Express, and Material-UI.  
 
 Implemented backend REST API server with Node.js and Express and cloud functions on Firebase
